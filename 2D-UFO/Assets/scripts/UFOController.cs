@@ -10,16 +10,16 @@ public class UFOController : MonoBehaviour {
     // Start is called before the first frame update
     void Start () {
         rigidbody = GetComponent<Rigidbody2D> ();
-        speed = 0f;
     }
 
     void FixedUpdate () {
         print ("gordon");
-        float moveHorizontal = Input.GetAxis ("Horizontal");
-        float moveVertical = Input.GetAxis ("Vertical");
-        // AddForce
+        float moveHorizontal = Input.GetAxis ("Horizontal") * speed;
+        float moveVertical = Input.GetAxis ("Vertical") * speed;
+        print (speed);
 
-        rigidbody.AddForce (new Vector3 (moveHorizontal, moveVertical, 0));
+        // AddForce
+        rigidbody.AddForce (new Vector2 (moveHorizontal, moveVertical));
     }
     // Update is called once per frame
     void Update () {
