@@ -13,10 +13,10 @@ public class UFOController : MonoBehaviour {
     }
 
     void FixedUpdate () {
-        print ("gordon");
+        //print ("gordon");
         float moveHorizontal = Input.GetAxis ("Horizontal") * speed;
         float moveVertical = Input.GetAxis ("Vertical") * speed;
-        print (speed);
+        //print (speed);
 
         // AddForce
         rigidbody.AddForce (new Vector2 (moveHorizontal, moveVertical));
@@ -30,5 +30,11 @@ public class UFOController : MonoBehaviour {
         // Method 2
         //transform.position = new Vector2 (transform.position.x + speed, 0f);
 
+    }
+
+    private void OnTriggerEnter2D (Collider2D other) {
+        if (other.gameObject.CompareTag ("PickUp")) {
+            other.gameObject.SetActive (false); // do not destroy
+        }
     }
 }
