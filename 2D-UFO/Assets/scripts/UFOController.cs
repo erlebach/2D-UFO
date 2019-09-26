@@ -9,12 +9,15 @@ public class UFOController : MonoBehaviour {
     private Rigidbody2D rigidbody;
     public Text score_reg;
     private int score;
+    private AudioSource audioSource;
+    private AudioClip audioClip;
 
     // Start is called before the first frame update
     void Start () {
         rigidbody = GetComponent<Rigidbody2D> ();
         //score_reg.text = "0000";
         score = 0;
+        audioSource = GetComponent<AudioSource> ();
     }
 
     void FixedUpdate () {
@@ -39,6 +42,7 @@ public class UFOController : MonoBehaviour {
 
     private void OnTriggerEnter2D (Collider2D other) {
         if (other.gameObject.CompareTag ("PickUp")) {
+            audioSource.Play ();
             other.gameObject.SetActive (false); // do not destroy
             score += 1;
             print (score);
