@@ -1,0 +1,499 @@
+fileFormatVersion: 2
+guid: 36370b0cead8d4ca1bd49cbfcc0c5a6f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1776424296614493862
+    second: DancerAtlas_0
+  - first:
+      213: 752636383674539053
+    second: DancerAtlas_1
+  - first:
+      213: -6980668629824075388
+    second: DancerAtlas_2
+  - first:
+      213: -7351156685614530676
+    second: DancerAtlas_3
+  - first:
+      213: -387363212843744179
+    second: DancerAtlas_4
+  - first:
+      213: 5984412358168711394
+    second: DancerAtlas_5
+  - first:
+      213: -3947330265532308914
+    second: DancerAtlas_6
+  - first:
+      213: -3208574812652813860
+    second: DancerAtlas_7
+  - first:
+      213: 4433012770569981376
+    second: DancerAtlas_8
+  - first:
+      213: -7306595001259560201
+    second: DancerAtlas_9
+  - first:
+      213: 5760895224382331028
+    second: DancerAtlas_10
+  - first:
+      213: -3117079729008663204
+    second: DancerAtlas_11
+  - first:
+      213: 4465774953986630193
+    second: DancerAtlas_12
+  - first:
+      213: -1843358999691404979
+    second: DancerAtlas_13
+  - first:
+      213: -5466342714146793066
+    second: DancerAtlas_14
+  - first:
+      213: 5956867335504401407
+    second: DancerAtlas_15
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DancerAtlas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168.75
+        width: 56.25
+        height: 56.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4707cdd40b584778a7629852ba1b0d7
+      internalID: -1776424296614493862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DancerAtlas_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 168.75
+        width: 56.25
+        height: 56.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09c419b0d5f54d4db92d166e12e3bcb
+      internalID: 752636383674539053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DancerAtlas_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 168.75
+        width: 56.25
+        height: 56.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef224f4850b0e433c95c2fad50835913
+      internalID: -6980668629824075388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DancerAtlas_3
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 168.75
+        width: 56.25
+        height: 56.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e0da0214b2044d5af0293917721356
+      internalID: -7351156685614530676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DancerAtlas_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112.75
+        width: 56.25
+        height: 56.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356d2180298e4477daccbbcb9924f78d
+      internalID: -387363212843744179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DancerAtlas_5
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 112.75
+        width: 56.25
+        height: 56.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1567373c1986144ae996a9d5466802e6
+      internalID: 5984412358168711394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DancerAtlas_6
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112.75
+        width: 56.25
+        height: 56.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9167dbd14f4294b5ab75746ecafac6ce
+      internalID: -3947330265532308914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DancerAtlas_7
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 112.75
+        width: 56.25
+        height: 56.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945156b571712476fb13d84f612a4f40
+      internalID: -3208574812652813860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DancerAtlas_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56.75
+        width: 56.25
+        height: 56.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b2f2c1b4af74e89bdca8ac07da1874
+      internalID: 4433012770569981376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DancerAtlas_9
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 56.75
+        width: 56.25
+        height: 56.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f04d53ccc0540e88c766f7773b7a25
+      internalID: -7306595001259560201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DancerAtlas_10
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 56.75
+        width: 56.25
+        height: 56.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d81d813e51394d6dae149b7f175df1c
+      internalID: 5760895224382331028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DancerAtlas_11
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 56.75
+        width: 56.25
+        height: 56.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d497e5dde6f1b47f9b89fa04f0d64db0
+      internalID: -3117079729008663204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DancerAtlas_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.75
+        width: 56.25
+        height: 56.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59262ac4a8cc94f748e62b9aef386448
+      internalID: 4465774953986630193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DancerAtlas_13
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0.75
+        width: 56.25
+        height: 56.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df12b6f4a009643e5a238fb8ff58d6dc
+      internalID: -1843358999691404979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DancerAtlas_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0.75
+        width: 56.25
+        height: 56.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0893a914a38f4f4ca5fce91b2a894c5
+      internalID: -5466342714146793066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DancerAtlas_15
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0.75
+        width: 56.25
+        height: 56.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff0820713f704af484bc0b669264521
+      internalID: 5956867335504401407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 52e4d55c65b4045ab96b471f73d799b2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
