@@ -1,0 +1,1243 @@
+fileFormatVersion: 2
+guid: 2e6d04c90bdb94fd5b3cd38079b91cc3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4185005314382362461
+    second: TempleRunCharacterAtlas2k_0
+  - first:
+      213: -7208301575056002583
+    second: TempleRunCharacterAtlas2k_1
+  - first:
+      213: -2024097492956046304
+    second: TempleRunCharacterAtlas2k_2
+  - first:
+      213: -3624536115729424533
+    second: TempleRunCharacterAtlas2k_3
+  - first:
+      213: -1934038219175471399
+    second: TempleRunCharacterAtlas2k_4
+  - first:
+      213: 1246084418202576583
+    second: TempleRunCharacterAtlas2k_5
+  - first:
+      213: -6233475257058344355
+    second: TempleRunCharacterAtlas2k_6
+  - first:
+      213: 2438116282888365280
+    second: TempleRunCharacterAtlas2k_7
+  - first:
+      213: -6977380627664420672
+    second: TempleRunCharacterAtlas2k_8
+  - first:
+      213: 5242197239101069607
+    second: TempleRunCharacterAtlas2k_9
+  - first:
+      213: -1500766640269297551
+    second: TempleRunCharacterAtlas2k_10
+  - first:
+      213: 3141107206737800636
+    second: TempleRunCharacterAtlas2k_11
+  - first:
+      213: -8755610988810857012
+    second: TempleRunCharacterAtlas2k_12
+  - first:
+      213: -2167969418953997687
+    second: TempleRunCharacterAtlas2k_13
+  - first:
+      213: 8024155245732062556
+    second: TempleRunCharacterAtlas2k_14
+  - first:
+      213: 3411320236643412444
+    second: TempleRunCharacterAtlas2k_15
+  - first:
+      213: 9092243851138088532
+    second: TempleRunCharacterAtlas2k_16
+  - first:
+      213: 7788056409242004032
+    second: TempleRunCharacterAtlas2k_17
+  - first:
+      213: 889545421581960265
+    second: TempleRunCharacterAtlas2k_18
+  - first:
+      213: 4602139832507909131
+    second: TempleRunCharacterAtlas2k_19
+  - first:
+      213: 2745422510677945475
+    second: TempleRunCharacterAtlas2k_20
+  - first:
+      213: -4142982277919283848
+    second: TempleRunCharacterAtlas2k_21
+  - first:
+      213: 5595898466327337419
+    second: TempleRunCharacterAtlas2k_22
+  - first:
+      213: -6639447597482794013
+    second: TempleRunCharacterAtlas2k_23
+  - first:
+      213: 6709459752351663470
+    second: TempleRunCharacterAtlas2k_24
+  - first:
+      213: 3490630916956423323
+    second: TempleRunCharacterAtlas2k_25
+  - first:
+      213: -1615398143219593821
+    second: TempleRunCharacterAtlas2k_26
+  - first:
+      213: 7622605358018383303
+    second: TempleRunCharacterAtlas2k_27
+  - first:
+      213: 8665173452740617878
+    second: TempleRunCharacterAtlas2k_28
+  - first:
+      213: -5466731939468047128
+    second: TempleRunCharacterAtlas2k_29
+  - first:
+      213: 5238378898416038417
+    second: TempleRunCharacterAtlas2k_30
+  - first:
+      213: 8857204322123058899
+    second: TempleRunCharacterAtlas2k_31
+  - first:
+      213: 7885563986767708571
+    second: TempleRunCharacterAtlas2k_32
+  - first:
+      213: -3848130317608154514
+    second: TempleRunCharacterAtlas2k_33
+  - first:
+      213: -5545985569521976727
+    second: TempleRunCharacterAtlas2k_34
+  - first:
+      213: 1362216803138248803
+    second: TempleRunCharacterAtlas2k_35
+  - first:
+      213: 8741013156363702133
+    second: TempleRunCharacterAtlas2k_36
+  - first:
+      213: -2888360571012003247
+    second: TempleRunCharacterAtlas2k_37
+  - first:
+      213: -4486286338467305170
+    second: TempleRunCharacterAtlas2k_38
+  - first:
+      213: 171751581943945582
+    second: TempleRunCharacterAtlas2k_39
+  - first:
+      213: 341355000166418304
+    second: TempleRunCharacterAtlas2k_40
+  - first:
+      213: -3227809344487495915
+    second: TempleRunCharacterAtlas2k_41
+  - first:
+      213: -578947538305121683
+    second: TempleRunCharacterAtlas2k_42
+  - first:
+      213: -6560387663197694734
+    second: TempleRunCharacterAtlas2k_43
+  - first:
+      213: -5671470434952343115
+    second: TempleRunCharacterAtlas2k_44
+  - first:
+      213: 6831479541802512336
+    second: TempleRunCharacterAtlas2k_45
+  - first:
+      213: 6185560510144736734
+    second: TempleRunCharacterAtlas2k_46
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TempleRunCharacterAtlas2k_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1784
+        width: 153
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667002e433e304042952eb310b35381f
+      internalID: 4185005314382362461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleRunCharacterAtlas2k_1
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1780
+        width: 171
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c70e10f82f04d95888c98a84785e33
+      internalID: -7208301575056002583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleRunCharacterAtlas2k_2
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1770
+        width: 198
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca248785b56441cc897f2b64a5a4a8b
+      internalID: -2024097492956046304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleRunCharacterAtlas2k_3
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1773
+        width: 212
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84944b3ee164842c1a3460ae48c23723
+      internalID: -3624536115729424533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleRunCharacterAtlas2k_4
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 1778
+        width: 236
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba698c49c9cd34fee8edb836793ed2d8
+      internalID: -1934038219175471399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleRunCharacterAtlas2k_5
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1778
+        width: 242
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d73b3ee10ea456bb50473fddf2e594
+      internalID: 1246084418202576583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleRunCharacterAtlas2k_6
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 1774
+        width: 246
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877d92cce03f04bc79187965b746430c
+      internalID: -6233475257058344355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleRunCharacterAtlas2k_7
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1496
+        width: 156
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a531da724fdd94344beb17830a3f3e14
+      internalID: 2438116282888365280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleRunCharacterAtlas2k_8
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1496
+        width: 155
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad15fc9c28ef41a1a75f4eea3cfa6e6
+      internalID: -6977380627664420672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleRunCharacterAtlas2k_9
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1496
+        width: 156
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918e0b0b9145f421a81959614b65d2ed
+      internalID: 5242197239101069607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleRunCharacterAtlas2k_10
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1496
+        width: 156
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad233db954d84d6f903d2f749c21647
+      internalID: -1500766640269297551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleRunCharacterAtlas2k_11
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1496
+        width: 155
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c5b3d80e28e4cc891ad4a8d233bd21
+      internalID: 3141107206737800636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleRunCharacterAtlas2k_12
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1496
+        width: 156
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4dea1c4b903a4bca891483a1a2c1414
+      internalID: -8755610988810857012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleRunCharacterAtlas2k_13
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 1496
+        width: 156
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b36e38fdd0c4cfcaa7227b46eb3c30
+      internalID: -2167969418953997687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleRunCharacterAtlas2k_14
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 1496
+        width: 156
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8bb632730602464b980cfdcd258012c
+      internalID: 8024155245732062556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleRunCharacterAtlas2k_15
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 1496
+        width: 156
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92e962e493b34be1929ff32ab9880af
+      internalID: 3411320236643412444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleRunCharacterAtlas2k_16
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 1496
+        width: 155
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49498bc2808dc49158043bebf2cdc16f
+      internalID: 9092243851138088532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleRunCharacterAtlas2k_17
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1172
+        width: 167
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a2ddc7a3c6542068f9a78a21ea542a
+      internalID: 7788056409242004032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleRunCharacterAtlas2k_18
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1168
+        width: 165
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734218f66914247049514a1f99fe4b92
+      internalID: 889545421581960265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleRunCharacterAtlas2k_19
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1189
+        width: 162
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d28ec625c79d4eb6b87e0f2b95f84a0
+      internalID: 4602139832507909131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleRunCharacterAtlas2k_20
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1190
+        width: 161
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52da0583490fd4ce490a4150280e30ea
+      internalID: 2745422510677945475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleRunCharacterAtlas2k_21
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1190
+        width: 161
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1454847bdd343a88e9e6a7908e5458
+      internalID: -4142982277919283848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleRunCharacterAtlas2k_22
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 1190
+        width: 161
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525dc02568a494d468b75a49e7089070
+      internalID: 5595898466327337419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleRunCharacterAtlas2k_23
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 1170
+        width: 156
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c55231bce2974f86bba2fb631650579
+      internalID: -6639447597482794013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleRunCharacterAtlas2k_24
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 1171
+        width: 158
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2faf62c8f61f84198aa14c8626cc369f
+      internalID: 6709459752351663470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleRunCharacterAtlas2k_25
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 1185
+        width: 160
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5bce7213e964630aa3d16c3438edef
+      internalID: 3490630916956423323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleRunCharacterAtlas2k_26
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 1185
+        width: 160
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59200d2b49194c79a371542cb9f8129
+      internalID: -1615398143219593821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleRunCharacterAtlas2k_27
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 904
+        width: 173
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea6f89a809044444b4d676875b6e633
+      internalID: 7622605358018383303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleRunCharacterAtlas2k_28
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 898
+        width: 181
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e8ad9a8ae1f44558da8e98d6040c23
+      internalID: 8665173452740617878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleRunCharacterAtlas2k_29
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 903
+        width: 184
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f245c0f7cd041e5b9f6ff6cb2ab6fa
+      internalID: -5466731939468047128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleRunCharacterAtlas2k_30
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 914
+        width: 201
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c04e9e1367c34d6c8921ec4776de1df
+      internalID: 5238378898416038417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleRunCharacterAtlas2k_31
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 906
+        width: 202
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b02e676abae6419e8aaf3a5cb1cd04b
+      internalID: 8857204322123058899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleRunCharacterAtlas2k_32
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 907
+        width: 170
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282eb622c5fa54c318241d4856f2daa7
+      internalID: 7885563986767708571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleRunCharacterAtlas2k_33
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 900
+        width: 175
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cbf8289c94414876995fd1d84ffd6e9
+      internalID: -3848130317608154514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleRunCharacterAtlas2k_34
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 910
+        width: 183
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50bd881ba268475cb62896bf696d55e
+      internalID: -5545985569521976727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleRunCharacterAtlas2k_35
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 922
+        width: 179
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809b539c8440e413790d4feefe524f2b
+      internalID: 1362216803138248803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleRunCharacterAtlas2k_36
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 910
+        width: 187
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bfc3d81695c848fa9e0136938e4c16b
+      internalID: 8741013156363702133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleRunCharacterAtlas2k_37
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 600
+        width: 194
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81a6ff23b92946a88f43a3ac0c149d1
+      internalID: -2888360571012003247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleRunCharacterAtlas2k_38
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 600
+        width: 194
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0677c7da7c9014cd7abac8867dd9a0d9
+      internalID: -4486286338467305170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleRunCharacterAtlas2k_39
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 600
+        width: 193
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665dc4aa0436f41e985c2b0f6ac5e61b
+      internalID: 171751581943945582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleRunCharacterAtlas2k_40
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 600
+        width: 193
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a837473fcf287488a84463406c7d824a
+      internalID: 341355000166418304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleRunCharacterAtlas2k_41
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 600
+        width: 192
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2dd2f3e347b41e8b8f00f988ae9888
+      internalID: -3227809344487495915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleRunCharacterAtlas2k_42
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 600
+        width: 191
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a502081e7f7f4139bc1834b4c8cc6a1
+      internalID: -578947538305121683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleRunCharacterAtlas2k_43
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 600
+        width: 192
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96bbb5737070b4b39ab8c34b670c55ce
+      internalID: -6560387663197694734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleRunCharacterAtlas2k_44
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 600
+        width: 193
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e42249dbebea43d7bf6c3af743f2974
+      internalID: -5671470434952343115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleRunCharacterAtlas2k_45
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 600
+        width: 193
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f390dabd4c804be087742ebc4973032
+      internalID: 6831479541802512336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleRunCharacterAtlas2k_46
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 600
+        width: 194
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f58609222fe94c019cca9e893f4e8b8
+      internalID: 6185560510144736734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 132c9d88655574419b0baf6164787f75
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
