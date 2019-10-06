@@ -1,0 +1,1291 @@
+fileFormatVersion: 2
+guid: f689e4ede43ba4e6b9bbb7413a19cd76
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3514858223294807119
+    second: boy_suit_idle_run_atlas_0
+  - first:
+      213: 5864213759426985121
+    second: boy_suit_idle_run_atlas_1
+  - first:
+      213: -6146537656982346237
+    second: boy_suit_idle_run_atlas_2
+  - first:
+      213: -5850986300631743037
+    second: boy_suit_idle_run_atlas_3
+  - first:
+      213: -1512545270595961722
+    second: boy_suit_idle_run_atlas_4
+  - first:
+      213: 3070923371770391617
+    second: boy_suit_idle_run_atlas_5
+  - first:
+      213: -5178915330750918032
+    second: boy_suit_idle_run_atlas_6
+  - first:
+      213: 3848268199507659770
+    second: boy_suit_idle_run_atlas_7
+  - first:
+      213: -5504546272374474783
+    second: boy_suit_idle_run_atlas_8
+  - first:
+      213: 4979666403519221599
+    second: boy_suit_idle_run_atlas_9
+  - first:
+      213: 4442525025391962111
+    second: boy_suit_idle_run_atlas_10
+  - first:
+      213: -1294767196063898849
+    second: boy_suit_idle_run_atlas_11
+  - first:
+      213: -6461190263281722859
+    second: boy_suit_idle_run_atlas_12
+  - first:
+      213: 9185395109682066342
+    second: boy_suit_idle_run_atlas_13
+  - first:
+      213: 5991255035522362925
+    second: boy_suit_idle_run_atlas_14
+  - first:
+      213: -996874418382734598
+    second: boy_suit_idle_run_atlas_15
+  - first:
+      213: 3114101434470387351
+    second: boy_suit_idle_run_atlas_16
+  - first:
+      213: -8090830938459735239
+    second: boy_suit_idle_run_atlas_17
+  - first:
+      213: 8529916841520489354
+    second: boy_suit_idle_run_atlas_18
+  - first:
+      213: 4003611620319977589
+    second: boy_suit_idle_run_atlas_19
+  - first:
+      213: -950175853691582851
+    second: boy_suit_idle_run_atlas_20
+  - first:
+      213: 4110393954522959075
+    second: boy_suit_idle_run_atlas_21
+  - first:
+      213: -2772112881316608257
+    second: boy_suit_idle_run_atlas_22
+  - first:
+      213: -3077579012448463949
+    second: boy_suit_idle_run_atlas_23
+  - first:
+      213: -9092137898211945154
+    second: boy_suit_idle_run_atlas_24
+  - first:
+      213: 1047713330760453522
+    second: boy_suit_idle_run_atlas_25
+  - first:
+      213: -1418419202240139317
+    second: boy_suit_idle_run_atlas_26
+  - first:
+      213: -3678049354705052118
+    second: boy_suit_idle_run_atlas_27
+  - first:
+      213: -3841163794219420748
+    second: boy_suit_idle_run_atlas_28
+  - first:
+      213: -1409027397276819890
+    second: boy_suit_idle_run_atlas_29
+  - first:
+      213: -3556846934364779174
+    second: boy_suit_idle_run_atlas_30
+  - first:
+      213: 2985803750047910439
+    second: boy_suit_idle_run_atlas_31
+  - first:
+      213: 5741201977457347293
+    second: boy_suit_idle_run_atlas_32
+  - first:
+      213: -2760208419327984663
+    second: boy_suit_idle_run_atlas_33
+  - first:
+      213: 2990447294135505747
+    second: boy_suit_idle_run_atlas_34
+  - first:
+      213: -607059124111376193
+    second: boy_suit_idle_run_atlas_35
+  - first:
+      213: 2285853276634445706
+    second: boy_suit_idle_run_atlas_36
+  - first:
+      213: 2317852209814015452
+    second: boy_suit_idle_run_atlas_37
+  - first:
+      213: 7771325666984722834
+    second: boy_suit_idle_run_atlas_38
+  - first:
+      213: -3179086831724883854
+    second: boy_suit_idle_run_atlas_39
+  - first:
+      213: 3187698385927035750
+    second: boy_suit_idle_run_atlas_40
+  - first:
+      213: -926629164672094959
+    second: boy_suit_idle_run_atlas_41
+  - first:
+      213: 997622463659626012
+    second: boy_suit_idle_run_atlas_42
+  - first:
+      213: -7928427200350930724
+    second: boy_suit_idle_run_atlas_43
+  - first:
+      213: -3275507529092242398
+    second: boy_suit_idle_run_atlas_44
+  - first:
+      213: -1981051323495796852
+    second: boy_suit_idle_run_atlas_45
+  - first:
+      213: 883742407500665563
+    second: boy_suit_idle_run_atlas_46
+  - first:
+      213: -3959718121093901290
+    second: boy_suit_idle_run_atlas_47
+  - first:
+      213: 8117065023096863008
+    second: boy_suit_idle_run_atlas_48
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boy_suit_idle_run_atlas_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 885
+        width: 81
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd3e60b282d54c26a65087c0fd257c2
+      internalID: 3514858223294807119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_suit_idle_run_atlas_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 885
+        width: 81
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5482efd4a94459fb4908e8e14be24a
+      internalID: 5864213759426985121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_suit_idle_run_atlas_2
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 885
+        width: 81
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f445247298245d79142a34bc221b40
+      internalID: -6146537656982346237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_suit_idle_run_atlas_3
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 884
+        width: 81
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3df635896d1242d3bef90968786030a
+      internalID: -5850986300631743037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_suit_idle_run_atlas_4
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 884
+        width: 81
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c7baa1af54847d38564661f75cd954
+      internalID: -1512545270595961722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_suit_idle_run_atlas_5
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 884
+        width: 80
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56128904adac04769ae49e1f8050e02c
+      internalID: 3070923371770391617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_suit_idle_run_atlas_6
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 884
+        width: 81
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7218c4721da9843d1a3df6e657c29b15
+      internalID: -5178915330750918032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_suit_idle_run_atlas_7
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 884
+        width: 81
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c552f5be44945829feb9500a939d42
+      internalID: 3848268199507659770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_suit_idle_run_atlas_8
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 883
+        width: 81
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f7e05c78f1c4487a55b84204da07d2
+      internalID: -5504546272374474783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_suit_idle_run_atlas_9
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 883
+        width: 81
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd1f9e2692bb4b1e9b014003da412de
+      internalID: 4979666403519221599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_suit_idle_run_atlas_10
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 883
+        width: 81
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d96e194f1ad6456f87ea59cf9625fc1
+      internalID: 4442525025391962111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_suit_idle_run_atlas_11
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 883
+        width: 81
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc56ce3c6889440c9141339fa460925
+      internalID: -1294767196063898849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_suit_idle_run_atlas_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 742
+        width: 81
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec4a309e50c745fa803866ddf866c65
+      internalID: -6461190263281722859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_suit_idle_run_atlas_13
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 743
+        width: 80
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1410a6612da604a1a98b5ba44d816ff6
+      internalID: 9185395109682066342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_suit_idle_run_atlas_14
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 743
+        width: 81
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3534991d92bc41babc066225e5e8d4b
+      internalID: 5991255035522362925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_suit_idle_run_atlas_15
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 743
+        width: 81
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf6273d125704986a13d79ef18f7df7
+      internalID: -996874418382734598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_suit_idle_run_atlas_16
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 743
+        width: 81
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3eac7fdba504eebadc69b3cb6d9fa0
+      internalID: 3114101434470387351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_suit_idle_run_atlas_17
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 743
+        width: 81
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553efe818bc324d4a8c4fe666a7a4809
+      internalID: -8090830938459735239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_suit_idle_run_atlas_18
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 744
+        width: 81
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1871e03f08dbc4d12ad321c8de64fd24
+      internalID: 8529916841520489354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_suit_idle_run_atlas_19
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 744
+        width: 81
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1948ea830012a4d86b27c3bba5495aa7
+      internalID: 4003611620319977589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_suit_idle_run_atlas_20
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 744
+        width: 81
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c931ae25fb4a47d8adf5b5b40662ca9
+      internalID: -950175853691582851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_suit_idle_run_atlas_21
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 744
+        width: 81
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c982a52043e4d4e0087bff3914b7781d
+      internalID: 4110393954522959075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_suit_idle_run_atlas_22
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 753
+        width: 119
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a01489ea191a4e31a69efca19bd681e
+      internalID: -2772112881316608257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_suit_idle_run_atlas_23
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 610
+        width: 118
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443de7c811626475a995c794e03b94e8
+      internalID: -3077579012448463949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_suit_idle_run_atlas_24
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 609
+        width: 118
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6563fbaad17594d6eb88f4cbe69d6037
+      internalID: -9092137898211945154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_suit_idle_run_atlas_25
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 608
+        width: 113
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204df0828ba4f4ab5b2284c8e0ef34db
+      internalID: 1047713330760453522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_suit_idle_run_atlas_26
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 606
+        width: 104
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7acb1fe23c94312a26b3f2d5325528
+      internalID: -1418419202240139317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_suit_idle_run_atlas_27
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 607
+        width: 103
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c96ddbec2394447c91fe29658c37330
+      internalID: -3678049354705052118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_suit_idle_run_atlas_28
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 608
+        width: 101
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81e8aade7920405f81fdbb0284d43d6
+      internalID: -3841163794219420748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_suit_idle_run_atlas_29
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 606
+        width: 100
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab82ec6e385c449b1bf3c1b86387fdb7
+      internalID: -1409027397276819890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_suit_idle_run_atlas_30
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 606
+        width: 96
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925eaa0980d044b9ea286d18bf7f12ea
+      internalID: -3556846934364779174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_suit_idle_run_atlas_31
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 606
+        width: 95
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f6e0f1ed69b49bc8d2f080d392fcbc
+      internalID: 2985803750047910439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_suit_idle_run_atlas_32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 470
+        width: 95
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c8bb22635a4422693a35d8fd97b595
+      internalID: 5741201977457347293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_suit_idle_run_atlas_33
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 470
+        width: 99
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21447146cdfe24865b3fbc63e866d4a4
+      internalID: -2760208419327984663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_suit_idle_run_atlas_34
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 469
+        width: 102
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e9327e7ba94448eb05145739fe62b4
+      internalID: 2990447294135505747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_suit_idle_run_atlas_35
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 474
+        width: 106
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef911ad646e341c393f610b7130df0d
+      internalID: -607059124111376193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_suit_idle_run_atlas_36
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 477
+        width: 116
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd9f3cee0fb241ed80cbe248009597a
+      internalID: 2285853276634445706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_suit_idle_run_atlas_37
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 477
+        width: 118
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94165d2eff3474793a86ff91b9d91cbd
+      internalID: 2317852209814015452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_suit_idle_run_atlas_38
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 475
+        width: 110
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b453a413735c442f8f203cd72b1a558
+      internalID: 7771325666984722834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_suit_idle_run_atlas_39
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 474
+        width: 101
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1ec6af61167410ebefeb4948fa49ea
+      internalID: -3179086831724883854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_suit_idle_run_atlas_40
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 473
+        width: 102
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c52c4e7ae744f8989258c338441594
+      internalID: 3187698385927035750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_suit_idle_run_atlas_41
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 336
+        width: 104
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7743c76ebe924475c80e302a67585e5d
+      internalID: -926629164672094959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_suit_idle_run_atlas_42
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 335
+        width: 98
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278c2109a5baf4bb59ee12898296a7a1
+      internalID: 997622463659626012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_suit_idle_run_atlas_43
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 333
+        width: 94
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f5dd163be6243459ece1f886038c10
+      internalID: -7928427200350930724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_suit_idle_run_atlas_44
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 333
+        width: 98
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8842816ec978148f3b691de0f15b6009
+      internalID: -3275507529092242398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_suit_idle_run_atlas_45
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 332
+        width: 104
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf5ec30e81834f97b65b4d102ad0777
+      internalID: -1981051323495796852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_suit_idle_run_atlas_46
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 333
+        width: 106
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9bd050693e9d4b688cf643d38fe4d4a
+      internalID: 883742407500665563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_suit_idle_run_atlas_47
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 332
+        width: 108
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb800f72f946448dacfdb1a77f4f715
+      internalID: -3959718121093901290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_suit_idle_run_atlas_48
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 334
+        width: 112
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee54371cc96647d4b9bcc4162fc714d
+      internalID: 8117065023096863008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6b5c9feb58dee4dd9bf44feeef507159
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,103 +1,55 @@
 fileFormatVersion: 2
-guid: d74e9104f11814ed3b4a122718f00e31
+guid: 36370b0cead8d4ca1bd49cbfcc0c5a6f
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6198316879909490977
-    second: PlayerAtlas_0
+      213: -1776424296614493862
+    second: DancerAtlas_0
   - first:
-      213: 5110585885055717846
-    second: PlayerAtlas_1
+      213: 752636383674539053
+    second: DancerAtlas_1
   - first:
-      213: -5974094763163677011
-    second: PlayerAtlas_2
+      213: -6980668629824075388
+    second: DancerAtlas_2
   - first:
-      213: -5576338770054835268
-    second: PlayerAtlas_3
+      213: -7351156685614530676
+    second: DancerAtlas_3
   - first:
-      213: 3379145957502006849
-    second: PlayerAtlas_4
+      213: -387363212843744179
+    second: DancerAtlas_4
   - first:
-      213: -4595800850781774619
-    second: PlayerAtlas_5
+      213: 5984412358168711394
+    second: DancerAtlas_5
   - first:
-      213: -7462660833460506756
-    second: PlayerAtlas_7
+      213: -3947330265532308914
+    second: DancerAtlas_6
   - first:
-      213: 6447738421054277292
-    second: PlayerAtlas_9
+      213: -3208574812652813860
+    second: DancerAtlas_7
   - first:
-      213: -4217919737391766035
-    second: PlayerAtlas_10
+      213: 4433012770569981376
+    second: DancerAtlas_8
   - first:
-      213: 7918205893787040057
-    second: PlayerAtlas_11
+      213: -7306595001259560201
+    second: DancerAtlas_9
   - first:
-      213: -6121467015710382203
-    second: PlayerAtlas_12
+      213: 5760895224382331028
+    second: DancerAtlas_10
   - first:
-      213: -4721646144574377522
-    second: PlayerAtlas_13
+      213: -3117079729008663204
+    second: DancerAtlas_11
   - first:
-      213: 4119806753801391543
-    second: PlayerAtlas_14
+      213: 4465774953986630193
+    second: DancerAtlas_12
   - first:
-      213: 2658259027580689373
-    second: PlayerAtlas_15
+      213: -1843358999691404979
+    second: DancerAtlas_13
   - first:
-      213: -6729302616248239510
-    second: PlayerAtlas_16
+      213: -5466342714146793066
+    second: DancerAtlas_14
   - first:
-      213: -285755281951915618
-    second: PlayerAtlas_17
-  - first:
-      213: 1615084160969511868
-    second: PlayerAtlas_18
-  - first:
-      213: -8267265605701751719
-    second: PlayerAtlas_19
-  - first:
-      213: -8445824209666573365
-    second: PlayerAtlas_20
-  - first:
-      213: 5391155989612071118
-    second: PlayerAtlas_21
-  - first:
-      213: 7181085684292405891
-    second: PlayerAtlas_22
-  - first:
-      213: 8573091091289344562
-    second: PlayerAtlas_23
-  - first:
-      213: -960311046058695184
-    second: PlayerAtlas_24
-  - first:
-      213: -5957752879192591708
-    second: PlayerAtlas_25
-  - first:
-      213: 9040220604408028974
-    second: PlayerAtlas_26
-  - first:
-      213: -7452497750673589930
-    second: PlayerAtlas_27
-  - first:
-      213: -651980431632592975
-    second: PlayerAtlas_28
-  - first:
-      213: 4453465473591920026
-    second: PlayerAtlas_29
-  - first:
-      213: -5470416848361781684
-    second: PlayerAtlas_30
-  - first:
-      213: -5574332650319180485
-    second: PlayerAtlas_33
-  - first:
-      213: 1162239345337186839
-    second: PlayerAtlas_34
-  - first:
-      213: 3625886989586975053
-    second: PlayerAtlas_35
+      213: 5956867335504401407
+    second: DancerAtlas_15
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -194,22 +146,22 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: PlayerAtlas_0
+      name: DancerAtlas_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 313
-        height: 161
+        width: 224
+        height: 224
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f95d8711448ab47f887625d60978621b
-      internalID: -6198316879909490977
+      spriteID: 942b5a3e88fc4404cafe98e27c725b71
+      internalID: -1776424296614493862
       vertices: []
       indices: 
       edges: []
@@ -217,7 +169,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 746a110f51a9444fb8b16762dd4ccbc6
+    spriteID: 52e4d55c65b4045ab96b471f73d799b2
     internalID: 0
     vertices: []
     indices: 

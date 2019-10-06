@@ -1,0 +1,1099 @@
+fileFormatVersion: 2
+guid: 1dcf8bdc9cbce4d89b0fc01ee6c560cb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4964587649114285343
+    second: pink_man_atlas_0
+  - first:
+      213: 3592673597121141715
+    second: pink_man_atlas_1
+  - first:
+      213: 4034848585108941993
+    second: pink_man_atlas_2
+  - first:
+      213: -7336873584956693696
+    second: pink_man_atlas_3
+  - first:
+      213: 2257411821881895049
+    second: pink_man_atlas_4
+  - first:
+      213: -2139898982977126088
+    second: pink_man_atlas_5
+  - first:
+      213: -6089041257990151152
+    second: pink_man_atlas_6
+  - first:
+      213: 5118237879817176707
+    second: pink_man_atlas_7
+  - first:
+      213: 4255960488466007070
+    second: pink_man_atlas_8
+  - first:
+      213: 129529540103635940
+    second: pink_man_atlas_9
+  - first:
+      213: -4879737225157296082
+    second: pink_man_atlas_10
+  - first:
+      213: 6621102535765339101
+    second: pink_man_atlas_11
+  - first:
+      213: -4924364812136354485
+    second: pink_man_atlas_12
+  - first:
+      213: 3514152734302524656
+    second: pink_man_atlas_13
+  - first:
+      213: -7632729236697486212
+    second: pink_man_atlas_14
+  - first:
+      213: 7123618322228302984
+    second: pink_man_atlas_15
+  - first:
+      213: -7591375510331042239
+    second: pink_man_atlas_16
+  - first:
+      213: -824520661458092809
+    second: pink_man_atlas_17
+  - first:
+      213: 1654608977588129154
+    second: pink_man_atlas_18
+  - first:
+      213: -491432980131107317
+    second: pink_man_atlas_19
+  - first:
+      213: 1588345549751115439
+    second: pink_man_atlas_20
+  - first:
+      213: 8983551935056515857
+    second: pink_man_atlas_21
+  - first:
+      213: 5220101839158622504
+    second: pink_man_atlas_22
+  - first:
+      213: -3777862593962715726
+    second: pink_man_atlas_23
+  - first:
+      213: 3630372252976095076
+    second: pink_man_atlas_24
+  - first:
+      213: -8631539053202668564
+    second: pink_man_atlas_25
+  - first:
+      213: -8753877190474378898
+    second: pink_man_atlas_26
+  - first:
+      213: 8743407839116710649
+    second: pink_man_atlas_27
+  - first:
+      213: 2514929723313413948
+    second: pink_man_atlas_28
+  - first:
+      213: -3723081988965001129
+    second: pink_man_atlas_29
+  - first:
+      213: 7657518506963531259
+    second: pink_man_atlas_30
+  - first:
+      213: -440965779654332542
+    second: pink_man_atlas_31
+  - first:
+      213: 2109510954244962453
+    second: pink_man_atlas_32
+  - first:
+      213: -3846962694604417435
+    second: pink_man_atlas_33
+  - first:
+      213: 7086942927032798032
+    second: pink_man_atlas_34
+  - first:
+      213: -6878574874935949641
+    second: pink_man_atlas_35
+  - first:
+      213: 1148506175202650532
+    second: pink_man_atlas_36
+  - first:
+      213: -1414219400799601844
+    second: pink_man_atlas_37
+  - first:
+      213: -6923053583783614045
+    second: pink_man_atlas_38
+  - first:
+      213: -506872411746519637
+    second: pink_man_atlas_39
+  - first:
+      213: -4603549873957706096
+    second: pink_man_atlas_40
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pink_man_atlas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 251
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c11ea32589f47009ab9623b8a4a18e
+      internalID: 4964587649114285343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink_man_atlas_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 251
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e1d4b8ce3614cdcabe3b119d7474eb
+      internalID: 3592673597121141715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink_man_atlas_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 252
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde3c8794e2a04668bbf105367132a84
+      internalID: 4034848585108941993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink_man_atlas_3
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 252
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028b043546b354735ba67b246c6b9d8f
+      internalID: -7336873584956693696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink_man_atlas_4
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 252
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89ca67920e8a4cd2896377f2e2872f4
+      internalID: 2257411821881895049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink_man_atlas_5
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 271
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352921955d6c0464d83752ec3cf3c214
+      internalID: -2139898982977126088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink_man_atlas_6
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 252
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ea4f8b39d8149f7b9e1c618001dcb2
+      internalID: -6089041257990151152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink_man_atlas_7
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 252
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a44455ab458e496598bc00779ad60f7
+      internalID: 5118237879817176707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink_man_atlas_8
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 252
+        width: 33
+        height: 55
+      alignment: 9
+      pivot: {x: 0.54267377, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcee17692fcda490c82328a2b210dc44
+      internalID: 4255960488466007070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink_man_atlas_9
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 252
+        width: 37
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5190298, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009fc51dd9ea24fe783933728daa365f
+      internalID: 129529540103635940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink_man_atlas_10
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 251
+        width: 37
+        height: 55
+      alignment: 9
+      pivot: {x: 0.50000083, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90070ec4abe3e474e89c67bbf2f78f5a
+      internalID: -4879737225157296082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink_man_atlas_11
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 251
+        width: 33
+        height: 55
+      alignment: 9
+      pivot: {x: 0.45732534, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2856ef43687fb44f08a4069d5dbd49ad
+      internalID: 6621102535765339101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink_man_atlas_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 190
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f938941ce7db493fbe2cac8185757ef
+      internalID: -4924364812136354485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink_man_atlas_13
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 191
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34edafc1daf74ba7a50cd07af84a270
+      internalID: 3514152734302524656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink_man_atlas_14
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 192
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca7241daf5fd42f38eb57b6b7d3c0d7
+      internalID: -7632729236697486212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink_man_atlas_15
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 188
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f578e0e1eff7241438f68191ba188a01
+      internalID: 7123618322228302984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink_man_atlas_16
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 189
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820c8ecd8168d4c028c891ff949897af
+      internalID: -7591375510331042239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink_man_atlas_17
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 190
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e683e64817884bae8f4ec532e3738ee
+      internalID: -824520661458092809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink_man_atlas_18
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 189
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39fc7d7a85ff74dfca54aecfd5f3dd08
+      internalID: 1654608977588129154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink_man_atlas_19
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 190
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60d55b30d8874d98864721ea3a7ea89
+      internalID: -491432980131107317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink_man_atlas_20
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 189
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e53b92e9c714be897fec747bfe6f6c
+      internalID: 1588345549751115439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink_man_atlas_21
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 189
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048a99062a4994fe7b5ab6e43250744e
+      internalID: 8983551935056515857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink_man_atlas_22
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 127
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b200464f3ba46da9ef3fa51ae12b8d
+      internalID: 5220101839158622504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink_man_atlas_23
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 126
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0e1260cc6cd4dbd894be3661005f7b
+      internalID: -3777862593962715726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink_man_atlas_24
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 127
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: accae8c2ba7494a948f3f0f88dd7e4ee
+      internalID: 3630372252976095076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink_man_atlas_25
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 127
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b2faa4315864915bd7a65ad7a81209
+      internalID: -8631539053202668564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink_man_atlas_26
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 127
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc6d188a20824df986281bca7c2713d
+      internalID: -8753877190474378898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink_man_atlas_27
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 127
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643798afdc8564bd796ffc364db368a3
+      internalID: 8743407839116710649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink_man_atlas_28
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 126
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9bfd0974f1d417e9187aebb35dec62
+      internalID: 2514929723313413948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink_man_atlas_29
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 126
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcdb697786ba440ae96dc7a8bb56eff1
+      internalID: -3723081988965001129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink_man_atlas_30
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 82
+        width: 57
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a8b50fb1cae4164a7e4bc87c483711
+      internalID: 7657518506963531259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink_man_atlas_31
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 69
+        width: 73
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f92955c90f9e4a20abdcf7b6cdcdb66
+      internalID: -440965779654332542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink_man_atlas_32
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 64
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a3c1018f9d84e5d80405ba8ed903bd
+      internalID: 2109510954244962453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink_man_atlas_33
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 65
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e77933941e4c469db12943c1eccb204
+      internalID: -3846962694604417435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink_man_atlas_34
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 64
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0bdfb58fbeda4d0791f6de66612cd0e
+      internalID: 7086942927032798032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink_man_atlas_35
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 65
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada72a2b7770d4c6b986649556bf9f57
+      internalID: -6878574874935949641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink_man_atlas_36
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 64
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b44724117f54dc5b7eda4c142e6923
+      internalID: 1148506175202650532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink_man_atlas_37
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 64
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716e6a3a3696d47e380b83da7be47213
+      internalID: -1414219400799601844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink_man_atlas_38
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 24
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d0acb5ce8ef498ca29f0539905cee8
+      internalID: -6923053583783614045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink_man_atlas_39
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51af0a6ab5fe24efdb18c9dcf8f31a43
+      internalID: -506872411746519637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink_man_atlas_40
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 0
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f445280cbffdd413f8c9badc44d91dd5
+      internalID: -4603549873957706096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e63ba41c6aa0741e388510506e6478d5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

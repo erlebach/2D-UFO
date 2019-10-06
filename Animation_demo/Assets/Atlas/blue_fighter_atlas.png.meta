@@ -1,0 +1,1459 @@
+fileFormatVersion: 2
+guid: 2481d47dfbde14cf3ba6979709bb7579
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8021314521034208717
+    second: blue_fighter_atlas_0
+  - first:
+      213: -3787354204230900700
+    second: blue_fighter_atlas_1
+  - first:
+      213: 1114116794108574051
+    second: blue_fighter_atlas_2
+  - first:
+      213: 2587488694104971578
+    second: blue_fighter_atlas_3
+  - first:
+      213: 8950345190054286882
+    second: blue_fighter_atlas_4
+  - first:
+      213: 7254431049071206267
+    second: blue_fighter_atlas_5
+  - first:
+      213: 7490207829760796566
+    second: blue_fighter_atlas_6
+  - first:
+      213: 5952827237985386717
+    second: blue_fighter_atlas_7
+  - first:
+      213: 3545242312173122502
+    second: blue_fighter_atlas_8
+  - first:
+      213: 1778133924615625354
+    second: blue_fighter_atlas_9
+  - first:
+      213: 1982078915616021406
+    second: blue_fighter_atlas_10
+  - first:
+      213: -9148942189285348343
+    second: blue_fighter_atlas_11
+  - first:
+      213: -2540774300919980402
+    second: blue_fighter_atlas_12
+  - first:
+      213: -5870583741548752368
+    second: blue_fighter_atlas_13
+  - first:
+      213: -7761637369949417739
+    second: blue_fighter_atlas_14
+  - first:
+      213: -6726534934861299721
+    second: blue_fighter_atlas_15
+  - first:
+      213: -6250570616845735459
+    second: blue_fighter_atlas_16
+  - first:
+      213: -795955407402052590
+    second: blue_fighter_atlas_17
+  - first:
+      213: 3297762942559581495
+    second: blue_fighter_atlas_18
+  - first:
+      213: -7543885594876007451
+    second: blue_fighter_atlas_19
+  - first:
+      213: 9163716819325528113
+    second: blue_fighter_atlas_20
+  - first:
+      213: -2436358188130512500
+    second: blue_fighter_atlas_21
+  - first:
+      213: 3643860512019571440
+    second: blue_fighter_atlas_22
+  - first:
+      213: -6745859503902596185
+    second: blue_fighter_atlas_23
+  - first:
+      213: -7691850256285094318
+    second: blue_fighter_atlas_24
+  - first:
+      213: 6075261192817785356
+    second: blue_fighter_atlas_25
+  - first:
+      213: 4449773916706512166
+    second: blue_fighter_atlas_26
+  - first:
+      213: 6784092498310480880
+    second: blue_fighter_atlas_27
+  - first:
+      213: -7684103652089160603
+    second: blue_fighter_atlas_28
+  - first:
+      213: -9154592955526576187
+    second: blue_fighter_atlas_29
+  - first:
+      213: -5046512892064816934
+    second: blue_fighter_atlas_30
+  - first:
+      213: -6105414051438242461
+    second: blue_fighter_atlas_31
+  - first:
+      213: -7504402771615594006
+    second: blue_fighter_atlas_32
+  - first:
+      213: -7164350325730380240
+    second: blue_fighter_atlas_33
+  - first:
+      213: 4585229821885306799
+    second: blue_fighter_atlas_34
+  - first:
+      213: 1862434447054354133
+    second: blue_fighter_atlas_35
+  - first:
+      213: -3688853282182537775
+    second: blue_fighter_atlas_36
+  - first:
+      213: 8728710944824559083
+    second: blue_fighter_atlas_37
+  - first:
+      213: -439880881955614139
+    second: blue_fighter_atlas_38
+  - first:
+      213: -601059901431792188
+    second: blue_fighter_atlas_39
+  - first:
+      213: -1899769516171282901
+    second: blue_fighter_atlas_40
+  - first:
+      213: 6388918222375977892
+    second: blue_fighter_atlas_41
+  - first:
+      213: 3388839718072995704
+    second: blue_fighter_atlas_42
+  - first:
+      213: 7060556688011964621
+    second: blue_fighter_atlas_43
+  - first:
+      213: 6988579527851975616
+    second: blue_fighter_atlas_44
+  - first:
+      213: -8719421653753337336
+    second: blue_fighter_atlas_45
+  - first:
+      213: 507359721774669712
+    second: blue_fighter_atlas_46
+  - first:
+      213: -8879539881932584044
+    second: blue_fighter_atlas_47
+  - first:
+      213: -8066760793461922051
+    second: blue_fighter_atlas_48
+  - first:
+      213: -5847084639447237022
+    second: blue_fighter_atlas_49
+  - first:
+      213: 263107059592435160
+    second: blue_fighter_atlas_50
+  - first:
+      213: 5576756172498072356
+    second: blue_fighter_atlas_51
+  - first:
+      213: -8099009159218465637
+    second: blue_fighter_atlas_52
+  - first:
+      213: -3317100460709764278
+    second: blue_fighter_atlas_53
+  - first:
+      213: -6003073010656705162
+    second: blue_fighter_atlas_54
+  - first:
+      213: 4496829881255842133
+    second: blue_fighter_atlas_55
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: blue_fighter_atlas_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 551
+        width: 42
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e7996c087414237995be7577558888
+      internalID: 8021314521034208717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_fighter_atlas_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 552
+        width: 41
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea85dbeef30e9426bad2e5f67b7c23f9
+      internalID: -3787354204230900700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_fighter_atlas_2
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 548
+        width: 36
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2633b0a24434e60863f9b3c5cb3689
+      internalID: 1114116794108574051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_fighter_atlas_3
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 546
+        width: 32
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891f559c3312840c7ab7fc4dea264240
+      internalID: 2587488694104971578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_fighter_atlas_4
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 553
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272dfaf9ab0344827ad3d1c239d541c4
+      internalID: 8950345190054286882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_fighter_atlas_5
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 560
+        width: 54
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b15905b511d4e53ad52f334d5c4328
+      internalID: 7254431049071206267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_fighter_atlas_6
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 564
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0f35d3382f14bf79230e3fa4bc8ced
+      internalID: 7490207829760796566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_fighter_atlas_7
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 544
+        width: 53
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad8104bf9e1f4975b1b1054b0bd3a7c
+      internalID: 5952827237985386717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_fighter_atlas_8
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 544
+        width: 76
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092b0a1e844f34a2ea60d22161ee6fbe
+      internalID: 3545242312173122502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_fighter_atlas_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 459
+        width: 44
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1aba38ed09bd47f49e6eced9afbdd0b
+      internalID: 1778133924615625354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_fighter_atlas_10
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 459
+        width: 79
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a611217ae05da429aa79ba3cda1180d6
+      internalID: 1982078915616021406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_fighter_atlas_11
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 459
+        width: 46
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75507862f1a7a49a1ac15149c342d1da
+      internalID: -9148942189285348343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_fighter_atlas_12
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 462
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6145be061b054180b9e80a6a45c14dd
+      internalID: -2540774300919980402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_fighter_atlas_13
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 461
+        width: 86
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d0b2f6d2b8e4cbca51f277007fac06
+      internalID: -5870583741548752368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_fighter_atlas_14
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 462
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e310748f3022f4cb894a073407d6a1db
+      internalID: -7761637369949417739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_fighter_atlas_15
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 463
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b196caf4cbe82411295cf2f7e9eaee2a
+      internalID: -6726534934861299721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_fighter_atlas_16
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 463
+        width: 81
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73125e38f7b8a46c2ade52fe7399fb21
+      internalID: -6250570616845735459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_fighter_atlas_17
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 376
+        width: 48
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0907846b1a19043018ef686a3ea88499
+      internalID: -795955407402052590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_fighter_atlas_18
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 376
+        width: 63
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac489d042a15e4b0da4ea78166439c2d
+      internalID: 3297762942559581495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_fighter_atlas_19
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 373
+        width: 59
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60ca86a9fc7b4c3aacd089dfeb2a411
+      internalID: -7543885594876007451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_fighter_atlas_20
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 373
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0066e1b021b1d4901b74fe3ea9feec82
+      internalID: 9163716819325528113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_fighter_atlas_21
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 374
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dddeb87c56f4e47ee9767de36d938a48
+      internalID: -2436358188130512500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_fighter_atlas_22
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 372
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c5fa5c266514633aab54f7f7ef208b
+      internalID: 3643860512019571440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_fighter_atlas_23
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 384
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c1cd5cde3194ad2980533f58ff7664
+      internalID: -6745859503902596185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_fighter_atlas_24
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 381
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e580389d485f4468ad3ffa89c03e590
+      internalID: -7691850256285094318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_fighter_atlas_25
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 383
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8fcec0e6fff47fe810a7879dba1f23
+      internalID: 6075261192817785356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_fighter_atlas_26
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 367
+        width: 56
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2583e09001e646778816e73b1ab6f38
+      internalID: 4449773916706512166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_fighter_atlas_27
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 230
+        width: 26
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9db23eb911ab4ef0859080d7b902c4d
+      internalID: 6784092498310480880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_fighter_atlas_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 244
+        width: 92
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00483177e241248578f1d0443e4c46fa
+      internalID: -7684103652089160603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_fighter_atlas_29
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 275
+        width: 92
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503aef16d46ea4f9abd54726eca32f3a
+      internalID: -9154592955526576187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_fighter_atlas_30
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 266
+        width: 26
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60bead98eeb4b4ef1985e596d2c6696a
+      internalID: -5046512892064816934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_fighter_atlas_31
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 275
+        width: 92
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838f695ced08b4545bca99d9b6f699b8
+      internalID: -6105414051438242461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_fighter_atlas_32
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 237
+        width: 57
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4b5e7363f9d4bcfacbfdd132fab934
+      internalID: -7504402771615594006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_fighter_atlas_33
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 237
+        width: 73
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c56d5d55fefa447286f90022a6ec956
+      internalID: -7164350325730380240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_fighter_atlas_34
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 234
+        width: 68
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274159c4e8d034f4281173d6d41ba59a
+      internalID: 4585229821885306799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_fighter_atlas_35
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 231
+        width: 91
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07befbf9957aa43298ebbbd7a3aa9b64
+      internalID: 1862434447054354133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_fighter_atlas_36
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 105
+        width: 55
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6227ddf1288f4de88f67d532a96eda0
+      internalID: -3688853282182537775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_fighter_atlas_37
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 105
+        width: 47
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803dde8abc31d4c4183e513e509e8ea5
+      internalID: 8728710944824559083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_fighter_atlas_38
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 107
+        width: 39
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727e9edc4beea425ca0d2837aa405ef7
+      internalID: -439880881955614139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_fighter_atlas_39
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 109
+        width: 39
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7220798ba5071460d8df961fe3579700
+      internalID: -601059901431792188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_fighter_atlas_40
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 158
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717ccf2bd87904d9e9cc413ec3ce9df3
+      internalID: -1899769516171282901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_fighter_atlas_41
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 115
+        width: 49
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea688d77865a4c1e8f3f4962cd3a082
+      internalID: 6388918222375977892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_fighter_atlas_42
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 116
+        width: 49
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc44102d401d4f15baab92eacd14a0d
+      internalID: 3388839718072995704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_fighter_atlas_43
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 105
+        width: 56
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9cfac8cb34b43f98b8b1232b6eb311
+      internalID: 7060556688011964621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_fighter_atlas_44
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 108
+        width: 76
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69411c49c098446aba730fe0cd33eeaa
+      internalID: 6988579527851975616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_fighter_atlas_45
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 106
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69128311ddf2c4bbfa3444bf29ef6193
+      internalID: -8719421653753337336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_fighter_atlas_46
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 108
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d7e768976d842cfa088319283bdbf3
+      internalID: 507359721774669712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_fighter_atlas_47
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 104
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e70c87a69d54ae2a52575ee9ed12b2
+      internalID: -8879539881932584044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_fighter_atlas_48
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3
+        width: 41
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1170aec9da80442e284ffbb300e84662
+      internalID: -8066760793461922051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_fighter_atlas_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 3
+        width: 31
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c8dc2c645f94913a22b551c7638dbe
+      internalID: -5847084639447237022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_fighter_atlas_50
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 6
+        width: 43
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4661c225808a411dbe7a725d511cf7f
+      internalID: 263107059592435160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_fighter_atlas_51
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 6
+        width: 44
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb6f441e0ea84220898b732ae6ee038
+      internalID: 5576756172498072356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_fighter_atlas_52
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 3
+        width: 80
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4d395aa03b5413e94148e3f9e91052
+      internalID: -8099009159218465637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_fighter_atlas_53
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e24c76806bf245bca6c08603f9235b0
+      internalID: -3317100460709764278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_fighter_atlas_54
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 0
+        width: 68
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38902028325594183adf3a4b863f8852
+      internalID: -6003073010656705162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_fighter_atlas_55
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 0
+        width: 68
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f503f7e96476e4b68913b6f197682ab1
+      internalID: 4496829881255842133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f0cbcceb1f5164382a7d0b1318942954
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
