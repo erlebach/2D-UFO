@@ -15,20 +15,28 @@ public class BoySuitController : MonoBehaviour {
 
     // Update is called once per frame
     void Update () {
+
+        bool keyDown = Input.GetKeyDown (KeyCode.Space);
         float xpos = Input.GetAxis ("Horizontal");
-        print (xpos);
+
         if (xpos >.5f) {
             myAnimator.SetBool ("isRunning", true);
             transform.localScale = new Vector3 (1f, 1f, 1f);
-            //print ("< 0");
+            transform.position += new Vector3 (xpos, 0f, 0f) * speed * Time.deltaTime;
         } else if (xpos < -.5f) {
             myAnimator.SetBool ("isRunning", true);
             transform.localScale = new Vector3 (-1f, 1f, 1f);
-            //print ("> 0");
+            transform.position += new Vector3 (xpos, 0f, 0f) * speed * Time.deltaTime;
         } else {
             myAnimator.SetBool ("isRunning", false);
-            //transform.localScale = new Vector3 (1f, 1f, 1f);
         }
-        transform.position += new Vector3 (xpos, 0f, 0f) * speed * Time.deltaTime;
+
+        if (keyDown == true) {
+            myAnimator.SetTrigger ("explosion");
+        }
+    }
+
+    public void resetPosition () {
+        transform.position = new Vector3 (1.2f, -.62f, 0f);
     }
 }
