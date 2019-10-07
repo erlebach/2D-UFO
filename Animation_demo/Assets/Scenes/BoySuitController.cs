@@ -20,26 +20,18 @@ public class BoySuitController : MonoBehaviour {
         keyDown = Input.GetKeyDown (KeyCode.Space);
         xpos = Input.GetAxis ("Horizontal");
 
-        // No explosion while running
-        if (keyDown && xpos == 0f) {
+        if (keyDown) {
             explosion ();
         } else {
-            myAnimator.SetBool ("isExplosion", false);
+            horizMotion ();
         }
-        horizMotion ();
     }
 
     void explosion () {
         myAnimator.SetBool ("isExplode", true);
-        System.Threading.Thread.Sleep (100);
-        myAnimator.SetBool ("isExplosion", false);
-        // should happen AFTER the explosion. Here it does not
-        resetPosition ();
-
     }
 
     void horizMotion () {
-
         if (xpos >.5f) {
             myAnimator.SetBool ("isRunning", true);
             transform.localScale = new Vector3 (1f, 1f, 1f);
@@ -54,9 +46,7 @@ public class BoySuitController : MonoBehaviour {
     }
 
     void resetPosition () {
-        // the next line would prevent explosion. (code runs during explosion)
-        // So I could sleep for length of the explosion. 
-        //myAnimator.SetBool ("isExplode", false);
+        myAnimator.SetBool ("isExplode", false);
         transform.position = new Vector3 (1.2f, -.62f, 0f);
     }
 }
