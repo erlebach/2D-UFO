@@ -11,7 +11,7 @@ public class BoySuitController : MonoBehaviour {
 
     // Start is called before the first frame update
     void Awake () {
-        myRigidBody = GetComponent<Rigidbody2D> ();
+        //myRigidBody = GetComponent<Rigidbody2D> ();
         myAnimator = GetComponent<Animator> ();
     }
 
